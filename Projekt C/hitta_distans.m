@@ -68,3 +68,10 @@ end
 % skriv här något
 distans_a = slut_position_vektor(end); % Göm output
 end
+
+
+
+
+
+  
+
